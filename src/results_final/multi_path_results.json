@@ -1,0 +1,62 @@
+{
+  "method": "PSO_MULTI_PATH_NORMAL_PARAMS",
+  "timestamp": "2026-02-09T12:10:29.893256",
+  "paths": {
+    "caminho_a": {
+      "description": "Caminho A",
+      "coordinates": {
+        "start": [
+          -37.3076,
+          -8.485
+        ],
+        "goal": [
+          -37.2392,
+          -8.5026
+        ]
+      },
+      "statistics": {
+        "best_seed": 42,
+        "execution_time": 1043.347012758255
+      },
+      "best_weights": {
+        "slope": 0.2816671998843764,
+        "visib": 0.35553709075944623,
+        "insol": 0.36279570935617733
+      },
+      "best_metrics": {
+        "cost": 4539.185947383214,
+        "length": 11.261955787163641,
+        "curvature": 10.534364897447592,
+        "efficiency": 0.6961235296296254
+      }
+    },
+    "caminho_b": {
+      "description": "Caminho B",
+      "coordinates": {
+        "start": [
+          -37.4033,
+          -8.5505
+        ],
+        "goal": [
+          -37.1913,
+          -8.537
+        ]
+      },
+      "statistics": {
+        "best_seed": 42,
+        "execution_time": 1005.3350341320038
+      },
+      "best_weights": {
+        "slope": 0.31636667191843193,
+        "visib": 0.31561752572716645,
+        "insol": 0.3680158023544016
+      },
+      "best_metrics": {
+        "cost": 12477.287532236338,
+        "length": 31.427077252247358,
+        "curvature": 14.404787779206135,
+        "efficiency": 0.7502976880358905
+      }
+    }
+  }
+}
