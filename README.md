@@ -60,7 +60,6 @@ Os resultados são salvos na pasta `results_final/`:
 - Superfície de custo total (PNG)
 - Gráficos de convergência (PNG)
 - Perfis altimétricos (PNG)
-- Logs de execução (TXT)
 - Resumo comparativo (TXT)
 - Resultados detalhados (JSON)
 
